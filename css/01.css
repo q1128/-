@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+*{font-family: "幼圆" ;}
+.logo{height: 80px;filter:alpha(opacity=30);opacity: 0.5;}
+.zytx{text-align: center;border-width: thick;border-color: black;border-style: dashed;}
+.I{color: green;text-shadow: 10px 10px 10px;}
+.m{color: blue;text-shadow: 10px 10px 10px;}
+.M{color: red;text-shadow: 10px 10px 10px;}
+.U{color: darkorange;text-shadow: 10px 10px 10px;}
+.M,.I,.U,.m{font-size: 80px;}
+.xx{color:lightblue;font-weight: 1000;text-decoration: underline;}
+#wntj{font-family: "微软雅黑" ;font-size:30px ;font-weight: bolder ;text-indent: 2;}
+#wxh{font-size: 30px;font-weight: 800;}
+.toub{text-align: center;font-size: 50px;}
+.lightblue{color:darkseagreen;}
+a{ 	text-indent: 2em; 	display:inline-block; 	font-size:22px; 	color:#5E2D00; 	} 
+a:nth-child(1){text-indent:0;}/* 设置第一个链接的首行缩进为0 */ 
+a:link,a:visited{text-decoration:none;}
+a:hover{ 	text-decoration:underline; 	color:black; 	} 
+#lx{color: lightcoral;}
+div h2{color: blue;}
+
+
+
+
+

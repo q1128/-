@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+#di{height: 16em;width: 75em;text-align: center;}
+ul{text-align: center;}
+ul li{
+	list-style-type: none;	
+	text-align: center;
+}
+ul li img{width: 10em;}
+#h1{
+	font-family:"华文楷体";
+	font-size: 4em;
+	text-align: center;
+}
+video{width: 60em;}
+.mv{text-align: center;}
+.mvv{margin-bottom: 5em;}
+.logo img{width: 15em;}
+ 

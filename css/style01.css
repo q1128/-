@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+*{font-family:"楷体";}
+#dhl01 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	position: fixed;
+    top: 0;
+    width: 100%;/*固定在顶部*/
+}
+
+#dhl01 li {
+    float: left;
+}
+
+#dhl01 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 46px;/*导航栏的高度和内部的间距*/
+    text-decoration: none;
+}
+#dhl01 li a:hover {/*鼠标悬停状态*/
+    background-color: #111;
+}
+ul li img{width: 5em}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
